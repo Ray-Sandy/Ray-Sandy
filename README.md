@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on my personal project name Vegantarian databases
 - 🧰 I’m currently learning Express JS, MongoDB
 
-LinkedIn : https://www.linkedin.com/in/ray-sandy/ 
+LinkedIn : https://www.linkedin.com/in/ray-sandy/  <br>
 Instagram : ray.sandyy
 
 <!---
